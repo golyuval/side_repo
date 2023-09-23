@@ -1,3 +1,4 @@
+<br>
 
 ---
 # <span style="color:#dfd688;">***Table Of Contents***</span>
@@ -14,7 +15,7 @@
 - Team work (modules integration)
 - DB (mySQL,controllers,DAO&DTO)
 - Diagrams (usecase / class / object diagrams)
-- ***for further information [press_here](#erp)***
+- ***for further information [press_here](#erp-system)***
 
 ### 2. <span style="color:#9c8358;">**Football Broadcast :**</span> active broadcast communicating with several clients while broad-casting football tournament.
 - Communication (Server-Client, UDP/TCP, Reactor, RCI)
@@ -33,7 +34,7 @@
 - usefull code scopes 
 - library reviews 
 - implementation of different algorithms
-- ***for further information [press_here](#self-use-1)***
+- ***for further information [press_here](#self-use)***
 
 <br>
 
@@ -54,7 +55,7 @@
 
 <br>
 
-<a name="erp"></a>
+<a name="erp-system"></a>
 
 ### <span style="color:#77b268;">ERP System :</span> 
 
@@ -156,6 +157,8 @@
 
  <br>
 
+<a name="footbal-broadcast"></a>
+
 ### <span style="color:#77b268;">Football Broadcast :</span>
 
 * **Code Structure**
@@ -209,6 +212,8 @@
 
 
  <br>
+
+<a name="set-card-game"></a>
 
 ### <span style="color:#77b268;">Set Card Game :</span>
 
@@ -282,6 +287,8 @@
 
 <br><br>
 
+<a name="self-use"></a>
+
 ## <span style="color:#a2c09a;">Self Use</span>
 
 * **Algorithms** :
@@ -326,63 +333,3 @@
 
 
 
-oduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Conclusion](#conclusion)
-
-s
-
-s
-
-s
-s
-
-s
-
-s
-
-s
-
-s
-s
-
-s
-
-s
-
-s
-
-s
-
-s
-
-s
-
-s
-
-s
-s
-
-s
-
-s
-
-s
-s
-
-## Introduction <a name="introduction"></a>
-
-This is the introduction section.
-
-## Installation <a name="installation"></a>
-
-This is the installation section.
-
-## Usage <a name="usage"></a>
-
-This is the usage section.
-
-## Conclusion <a name="conclusion"></a>
-
-This is the conclusion section.
