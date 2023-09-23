@@ -5,7 +5,6 @@
 
 <br>
 
-
 ## <span style="color:#988d81;">***Projects***</span>
 
 
@@ -15,18 +14,18 @@
 - Team work (modules integration)
 - DB (mySQL,controllers,DAO&DTO)
 - Diagrams (usecase / class / object diagrams)
-- ***for further information [press_here](#erp-system)***
+- ***for further information [press here](#erp-system)***
 
 ### 2. <span style="color:#9c8358;">**Football Broadcast :**</span> active broadcast communicating with several clients while broad-casting football tournament.
 - Communication (Server-Client, UDP/TCP, Reactor, RCI)
 - Multi-Thread (Thread per client, Thread pool)
-- ***for further information [press_here](#football-broadcast)***
+- ***for further information [press here](#football-broadcast)***
 
 ### 3. <span style="color:#9c8358;">**Set Card Game :**</span> an implementation of the original set card game. 
 - Multi-Thread
 - Visitor pattern
 - UI
-- ***for further information [press_here](#set-card-game)***
+- ***for further information [press here](#set-card-game)***
 
 <br>
 
@@ -55,11 +54,17 @@
 
 <br>
 
+
+
+### ERP System : 
+
 <a name="erp-system"></a>
 
-### <span style="color:#77b268;">ERP System :</span> 
+<span style="color:#77b268;"></span> 
 
 <br>
+
+<a name="yo"></a>
 
 * **Description**
 
@@ -157,9 +162,13 @@
 
  <br>
 
+
+
+### Football Broadcast : 
+
 <a name="football-broadcast"></a>
 
-### <span style="color:#77b268;">Football Broadcast :</span>
+<span style="color:#77b268;"></span>
 
 * **Code Structure**
     
@@ -213,9 +222,13 @@
 
  <br>
 
+
+
+### Set Card Game : 
+
 <a name="set-card-game"></a>
 
-### <span style="color:#77b268;">Set Card Game :</span>
+ <span style="color:#77b268;"></span>
 
 * **Code Structure**
     - java
@@ -287,9 +300,13 @@
 
 <br><br>
 
+
+
+## Self Use
+
 <a name="self-use"></a>
 
-## <span style="color:#a2c09a;">Self Use</span>
+<span style="color:#a2c09a;"></span>
 
 * **Algorithms** :
 
